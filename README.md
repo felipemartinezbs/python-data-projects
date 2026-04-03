@@ -1,13 +1,13 @@
 # Python Data Projects
 
-Portfolio of data analysis and automation projects built with Python.
+Collection of Python projects focused on data analysis, automation and data pipelines.
 
 ## Projects
 
 ### 1. Automation Reporting
-Python script that analyzes sales data and automatically generates reports and charts.
+Automated script that analyzes sales data and generates reports and visualizations.
 
-**Technologies:**
+Technologies:
 - Python
 - pandas
 - matplotlib
@@ -15,41 +15,57 @@ Python script that analyzes sales data and automatically generates reports and c
 Outputs:
 - sales report
 - CSV datasets
-- sales visualization chart
+- charts
 
 
 ### 2. API Data Pipeline
-Pipeline that extracts cryptocurrency market data from an API and stores it as a dataset.
+Pipeline that extracts cryptocurrency data from an API and converts it into a structured dataset.
 
-**Technologies:**
+Technologies:
 - Python
 - requests
 - pandas
 
-Outputs:
-- crypto_data.csv dataset
-
 
 ### 3. Web Scraping Project
-Web scraping script that extracts data from websites and converts it into a structured dataset.
+Script that extracts data from a website using web scraping and converts it into a dataset.
 
-**Technologies:**
+Technologies:
 - Python
 - BeautifulSoup
 - pandas
 
-Outputs:
-- books_dataset.csv dataset
+
+### 4. ETL Data Pipeline
+Complete ETL pipeline that extracts data from an API, transforms it and generates visualizations.
+
+Technologies:
+- Python
+- pandas
+- matplotlib
+- requests
+
+
+### 5. Data Analysis Project
+Exploratory data analysis using Python and data visualization.
+
+Technologies:
+- Python
+- pandas
+- matplotlib
 
 
 ## Skills Demonstrated
 
-- Data extraction (API & Web scraping)
-- Data cleaning and analysis
-- Data automation
+- Data extraction (APIs & Web scraping)
+- Data cleaning
+- Data pipelines
 - Data visualization
-- Python scripting
+- Python automation
 
----
 
-Created by Felipe Martinez
+## Author
+
+Felipe Martinez
+
+GitHub: https://github.com/felipemartinezbs
